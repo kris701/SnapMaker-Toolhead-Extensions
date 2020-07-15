@@ -18,5 +18,5 @@ The front mount type B is for the 3D printer toolhead, since it have a large but
 
 ## Printer settings
 
-This should be printed with a somewhat large infill, since the little nobs on the back of the main holder, can easily snap if they are not solid enough.
+This should be printed with a somewhat large infill, since it is ment for there to be screwed attachments to it.
 The config can be found under "Printing Config"
