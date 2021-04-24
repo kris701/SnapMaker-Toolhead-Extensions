@@ -17,3 +17,11 @@ The front mount type B is for the 3D printer toolhead, since it have a large but
 
 This should be printed with a somewhat large infill, since it is ment for there to be screwed attachments to it.
 The config can be found under "Printing Config"
+
+General config:
+
+|Setting|Value|
+|:---:|:---:|
+| Layer Height |0.2mm |
+| Top Thickness |0.8mm |
+| Infil |50%-80% |
